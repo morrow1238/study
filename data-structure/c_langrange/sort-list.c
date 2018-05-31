@@ -9,7 +9,6 @@ typedef struct List
 
 }NODE;
 
-
 NODE *  init_node(int n)
 {
 	NODE *list, *p1,*p2;
